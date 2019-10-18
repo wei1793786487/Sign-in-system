@@ -1,10 +1,10 @@
 #                                                    会议签到管理系统
 
  
-### 开发环境 Win10、jdk1.8、Tomcat8、mysql数据库、IntelliJ IDEA
+## 开发环境 Win10、jdk1.8、Tomcat8、mysql数据库、IntelliJ IDEA
+
 
 
 #### 注意事项
- 系统调用了百度云的根据ip地址获去模糊的地址的接口,需要将utlis包AddressUtils的ak参数修改为自己的百度云的
-
+*系统调用了百度地图开发平台Web服务API的ip定位的服务网,如果使用需要将utlis包里面的AddressUtils当中的ak参数修改为你的ak
 
