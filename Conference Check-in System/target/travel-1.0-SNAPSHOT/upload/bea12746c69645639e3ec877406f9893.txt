@@ -1,0 +1,17 @@
+#include<stdio.h>//穷举算法 45人***45块砖***男3女2小孩0.5***搬砖王 
+int main()
+{
+int c,m,w;
+for(c=0;c<=45;c++)
+{
+ for(w=0;w<=45;w++)
+ {
+  for(m=0;m<=45;m++)
+  {
+  if(m+w+c==45&&m*3+w*2+c*0.5==45)
+  printf("men=%d,women=%d,child=%d\n",m,w,c);
+  }
+ }
+}
+return 0;
+}

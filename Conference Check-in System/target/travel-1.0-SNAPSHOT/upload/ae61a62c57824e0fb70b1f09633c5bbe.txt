@@ -1,0 +1,31 @@
+#include<stdio.h>
+int main(void)
+{
+	double v1,v2,a;
+	char op;
+	a=0;
+	goto A;
+	B:printf("\n\n");
+	A:a=a++;
+	printf("[%.0lf]-输入一个普通运算式\n",a);
+	scanf("%lf%c%lf",&v1,&op,&v2);
+	switch(op)
+	{
+        case '+':
+	printf("%.2lf+%.2lf=%.2lf\n",v1,v2,v1+v2); 
+	break;
+		case '-':
+	printf("%.2lf-%.2lf=%.2lf\n",v1,v2,v1-v2);
+	break; 
+		case '/':
+	printf("%.2lf/%.2lf=%.2lf\n",v1,v2,v1/v2); 
+	break;
+		case '*':
+	printf("%.2lf*%.2lf=%.2lf\n",v1,v2,v1*v2); 
+	break;
+	default:
+	printf("程序无法理解此表达式\n");
+	break;
+	}
+	goto B;
+}

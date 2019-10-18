@@ -1,0 +1,217 @@
+[2019.10.05 01:00:04] Launched version: 1008008, install beta: [FALSE], alpha: 0, debug mode: [FALSE], test dc: [FALSE]
+[2019.10.05 01:00:04] Executable dir: D:/哈哈/Telegram Desktop/, name: Telegram.exe
+[2019.10.05 01:00:04] Initial working dir: D:/哈哈/Telegram Desktop/
+[2019.10.05 01:00:04] Working dir: D:/哈哈/Telegram Desktop/
+[2019.10.05 01:00:04] Command line: D:\哈哈\Telegram Desktop\Telegram.exe
+[2019.10.05 01:00:04] Executable path before check: D:/哈哈/Telegram Desktop/Telegram.exe
+[2019.10.05 01:00:04] Logs started
+[2019.10.05 01:00:04] Connecting local socket to Global\0ec12d10fd23616bbc5b6b7a7bc15d98-{87A94AB0-E370-4cde-98D3-ACC110C5967D}...
+[2019.10.05 01:00:04] This is the only instance of Telegram, starting server and app...
+[2019.10.05 01:00:04] Moved logging from 'D:/哈哈/Telegram Desktop/log_start0.txt' to 'D:/哈哈/Telegram Desktop/log.txt'!
+[2019.10.05 01:00:04] Primary screen DPI: 120
+[2019.10.05 01:00:04] App Info: reading settings...
+[2019.10.05 01:00:04] App Info: reading encrypted settings...
+[2019.10.05 01:00:04] OpenAL Logging Level: (not set)
+[2019.10.05 01:00:04] Audio Playback Devices: OpenAL Soft
+[2019.10.05 01:00:04] Audio Playback Default Device: OpenAL Soft
+[2019.10.05 01:00:04] Audio Capture Devices: OpenAL Soft on 楹﹀厠椋(Realtek High Definition Audio)
+[2019.10.05 01:00:04] Audio Capture Default Device: OpenAL Soft on 楹﹀厠椋(Realtek High Definition Audio)
+[2019.10.05 01:00:05] App Info: reading map...
+[2019.10.05 01:00:05] App Info: reading encrypted map...
+[2019.10.05 01:00:05] App Info: could not read encrypted user settings...
+[2019.10.05 01:00:05] App Info: writing encrypted user settings...
+[2019.10.05 01:00:05] Map read time: 4
+[2019.10.05 01:00:05] Window Shadow: 1, 1, 1, 1, 1, 2, 3, 6, 9, 13, 18, 23, 28, 33
+[2019.10.05 01:00:05] Update Info: MTP is unavailable.
+[2019.10.05 01:00:05] Update Error: could not get current version 99
+[2019.10.05 01:00:07] HTTP Error: remote host closed - Connection closed
+[2019.10.05 01:00:08] HTTP Error: remote host closed - Connection closed
+[2019.10.05 01:00:09] HTTP Error: network error 99 - Unknown error
+[2019.10.05 01:00:09] HTTP Error: network error 99 - Unknown error
+[2019.10.05 01:00:11] HTTP Error: network error 99 - Unknown error
+[2019.10.05 01:00:12] HTTP Error: network error 99 - Unknown error
+[2019.10.05 01:00:13] Config Error: Failed to get response, error: Connection closed (2)
+[2019.10.05 01:00:13] Config Error: Failed to parse dns response JSON, error: illegal value
+[2019.10.05 01:00:13] Config Error: Bad data size 0 required 344
+[2019.10.05 01:00:14] HTTP Error: remote host closed - Connection closed
+[2019.10.05 01:00:15] HTTP Error: network error 99 - Unknown error
+[2019.10.05 01:00:15] HTTP Error: remote host closed - Connection closed
+[2019.10.05 01:00:17] HTTP Error: network error 99 - Unknown error
+[2019.10.05 01:00:18] HTTP Error: network error 99 - Unknown error
+[2019.10.05 01:00:19] TCP Error: network - Unknown error
+[2019.10.05 01:00:20] HTTP Error: remote host closed - Connection closed
+[2019.10.05 01:00:21] HTTP Error: remote host closed - Connection closed
+[2019.10.05 01:00:22] HTTP Error: network error 99 - Unknown error
+[2019.10.05 01:00:22] HTTP Error: network error 99 - Unknown error
+[2019.10.05 01:00:22] HTTP Error: network error 99 - Unknown error
+[2019.10.05 01:00:24] HTTP Error: network error 99 - Unknown error
+[2019.10.05 01:00:24] Config Error: Failed to get response, error: Connection closed (2)
+[2019.10.05 01:00:24] Config Error: Failed to parse dns response JSON, error: illegal value
+[2019.10.05 01:00:24] Config Error: Bad data size 0 required 344
+[2019.10.05 01:00:24] HTTP Error: remote host closed - Connection closed
+[2019.10.05 01:00:26] HTTP Error: network error 99 - Unknown error
+[2019.10.05 01:00:29] Config Error: Failed to get response, error: Connection closed (2)
+[2019.10.05 01:00:29] Config Error: Failed to parse dns response JSON, error: illegal value
+[2019.10.05 01:00:29] Config Error: Bad data size 0 required 344
+[2019.10.05 01:00:32] TCP Error: network - Unknown error
+[2019.10.05 01:00:32] HTTP Error: remote host closed - Connection closed
+[2019.10.05 01:00:37] Config Error: Failed to get response, error: Connection closed (2)
+[2019.10.05 01:00:37] Config Error: Failed to parse dns response JSON, error: illegal value
+[2019.10.05 01:00:37] Config Error: Bad data size 0 required 344
+[2019.10.05 01:00:37] HTTP Error: network error 99 - Unknown error
+[2019.10.05 01:00:37] HTTP Error: network error 99 - Unknown error
+[2019.10.05 01:00:38] HTTP Error: remote host closed - Connection closed
+[2019.10.05 01:00:38] HTTP Error: remote host closed - Connection closed
+[2019.10.05 01:00:40] HTTP Error: remote host closed - Connection closed
+[2019.10.05 01:00:42] HTTP Error: remote host closed - Connection closed
+[2019.10.05 01:00:44] HTTP Error: remote host closed - Connection closed
+[2019.10.05 01:00:44] HTTP Error: network error 99 - Unknown error
+[2019.10.05 01:00:44] HTTP Error: remote host closed - Connection closed
+[2019.10.05 01:00:45] HTTP Error: remote host closed - Connection closed
+[2019.10.05 01:00:45] HTTP Error: network error 99 - Unknown error
+[2019.10.05 01:00:45] HTTP Error: network error 99 - Unknown error
+[2019.10.05 01:00:45] HTTP Error: network error 99 - Unknown error
+[2019.10.05 01:00:46] HTTP Error: network error 99 - Unknown error
+[2019.10.05 01:00:46] Config Error: Failed to get response, error: Connection closed (2)
+[2019.10.05 01:00:46] Config Error: Failed to parse dns response JSON, error: illegal value
+[2019.10.05 01:00:46] Config Error: Bad data size 0 required 344
+[2019.10.05 01:00:46] HTTP Error: network error 99 - Unknown error
+[2019.10.05 01:00:47] HTTP Error: remote host closed - Connection closed
+[2019.10.05 01:00:48] HTTP Error: network error 99 - Unknown error
+[2019.10.05 01:00:49] HTTP Error: network error 99 - Unknown error
+[2019.10.05 01:00:50] HTTP Error: remote host closed - Connection closed
+[2019.10.05 01:00:53] Config Error: Failed to get response, error: Connection closed (2)
+[2019.10.05 01:00:53] Config Error: Failed to parse dns response JSON, error: illegal value
+[2019.10.05 01:00:53] Config Error: Bad data size 0 required 344
+[2019.10.05 01:00:53] HTTP Error: network error 99 - Unknown error
+[2019.10.05 01:00:53] HTTP Error: remote host closed - Connection closed
+[2019.10.05 01:00:54] TCP Error: network - Unknown error
+[2019.10.05 01:00:54] HTTP Error: remote host closed - Connection closed
+[2019.10.05 01:00:54] HTTP Error: remote host closed - Connection closed
+[2019.10.05 01:00:54] HTTP Error: network error 99 - Unknown error
+[2019.10.05 01:00:55] HTTP Error: network error 99 - Unknown error
+[2019.10.05 01:00:58] HTTP Error: network error 99 - Unknown error
+[2019.10.05 01:01:01] HTTP Error: network error 99 - Unknown error
+[2019.10.05 01:01:01] HTTP Error: network error 99 - Unknown error
+[2019.10.05 01:01:02] HTTP Error: remote host closed - Connection closed
+[2019.10.05 01:01:02] HTTP Error: network error 99 - Unknown error
+[2019.10.05 01:01:03] HTTP Error: network error 99 - Unknown error
+[2019.10.05 01:01:04] Config Error: Failed to get response, error: Connection closed (2)
+[2019.10.05 01:01:04] Config Error: Failed to parse dns response JSON, error: illegal value
+[2019.10.05 01:01:04] Config Error: Bad data size 0 required 344
+[2019.10.05 01:01:04] HTTP Error: network error 99 - Unknown error
+[2019.10.05 01:01:06] TCP Error: network - Unknown error
+[2019.10.05 01:01:07] HTTP Error: remote host closed - Connection closed
+[2019.10.05 01:01:10] Config Error: Failed to get response, error: Connection closed (2)
+[2019.10.05 01:01:10] Config Error: Failed to parse dns response JSON, error: illegal value
+[2019.10.05 01:01:10] Config Error: Bad data size 0 required 344
+[2019.10.05 01:01:17] HTTP Error: remote host closed - Connection closed
+[2019.10.05 01:01:18] HTTP Error: remote host closed - Connection closed
+[2019.10.05 01:01:18] HTTP Error: network error 99 - Unknown error
+[2019.10.05 01:01:18] HTTP Error: remote host closed - Connection closed
+[2019.10.05 01:01:19] HTTP Error: network error 99 - Unknown error
+[2019.10.05 01:01:20] HTTP Error: network error 99 - Unknown error
+[2019.10.05 01:01:22] HTTP Error: remote host closed - Connection closed
+[2019.10.05 01:01:23] HTTP Error: remote host closed - Connection closed
+[2019.10.05 01:01:25] HTTP Error: remote host closed - Connection closed
+[2019.10.05 01:01:26] HTTP Error: network error 99 - Unknown error
+[2019.10.05 01:01:26] HTTP Error: network error 99 - Unknown error
+[2019.10.05 01:01:27] HTTP Error: remote host closed - Connection closed
+[2019.10.05 01:01:27] Config Error: Failed to get response, error: Connection closed (2)
+[2019.10.05 01:01:27] Config Error: Failed to parse dns response JSON, error: illegal value
+[2019.10.05 01:01:27] Config Error: Bad data size 0 required 344
+[2019.10.05 01:01:28] HTTP Error: network error 99 - Unknown error
+[2019.10.05 01:01:31] HTTP Error: network error 99 - Unknown error
+[2019.10.05 01:01:33] HTTP Error: remote host closed - Connection closed
+[2019.10.05 01:01:33] HTTP Error: network error 99 - Unknown error
+[2019.10.05 01:01:34] HTTP Error: network error 99 - Unknown error
+[2019.10.05 01:01:34] HTTP Error: remote host closed - Connection closed
+[2019.10.05 01:01:36] HTTP Error: remote host closed - Connection closed
+[2019.10.05 01:01:38] HTTP Error: network error 99 - Unknown error
+[2019.10.05 01:01:41] HTTP Error: network error 99 - Unknown error
+[2019.10.05 01:01:41] HTTP Error: network error 99 - Unknown error
+[2019.10.05 01:01:41] TCP Error: network - Unknown error
+[2019.10.05 01:01:42] HTTP Error: network error 99 - Unknown error
+[2019.10.05 01:01:42] HTTP Error: network error 99 - Unknown error
+[2019.10.05 01:01:43] TCP Error: network - Unknown error
+[2019.10.05 01:01:43] HTTP Error: network error 99 - Unknown error
+[2019.10.05 01:01:46] HTTP Error: remote host closed - Connection closed
+[2019.10.05 01:01:51] TCP Error: network - Unknown error
+[2019.10.05 01:01:51] HTTP Error: remote host closed - Connection closed
+[2019.10.05 01:01:57] HTTP Error: remote host closed - Connection closed
+[2019.10.05 01:01:58] HTTP Error: remote host closed - Connection closed
+[2019.10.05 01:01:58] HTTP Error: remote host closed - Connection closed
+[2019.10.05 01:01:59] HTTP Error: remote host closed - Connection closed
+[2019.10.05 01:02:00] HTTP Error: remote host closed - Connection closed
+[2019.10.05 01:02:03] HTTP Error: network error 99 - Unknown error
+[2019.10.05 01:02:05] HTTP Error: network error 99 - Unknown error
+[2019.10.05 01:02:06] HTTP Error: remote host closed - Connection closed
+[2019.10.05 01:02:06] HTTP Error: network error 99 - Unknown error
+[2019.10.05 01:02:07] HTTP Error: network error 99 - Unknown error
+[2019.10.05 01:02:09] HTTP Error: remote host closed - Connection closed
+[2019.10.05 01:02:11] HTTP Error: network error 99 - Unknown error
+[2019.10.05 01:02:13] HTTP Error: remote host closed - Connection closed
+[2019.10.05 01:02:14] HTTP Error: remote host closed - Connection closed
+[2019.10.05 01:02:14] HTTP Error: remote host closed - Connection closed
+[2019.10.05 01:02:14] HTTP Error: network error 99 - Unknown error
+[2019.10.05 01:02:16] HTTP Error: network error 99 - Unknown error
+[2019.10.05 01:02:18] HTTP Error: network error 99 - Unknown error
+[2019.10.05 01:02:21] HTTP Error: network error 99 - Unknown error
+[2019.10.05 01:02:21] HTTP Error: network error 99 - Unknown error
+[2019.10.05 01:02:21] TCP Error: network - Unknown error
+[2019.10.05 01:02:22] HTTP Error: network error 99 - Unknown error
+[2019.10.05 01:02:22] HTTP Error: remote host closed - Connection closed
+[2019.10.05 01:02:24] HTTP Error: network error 99 - Unknown error
+[2019.10.05 01:02:26] HTTP Error: network error 99 - Unknown error
+[2019.10.05 01:02:37] HTTP Error: remote host closed - Connection closed
+[2019.10.05 01:02:38] HTTP Error: remote host closed - Connection closed
+[2019.10.05 01:02:38] TCP Error: network - Unknown error
+[2019.10.05 01:02:38] HTTP Error: network error 99 - Unknown error
+[2019.10.05 01:02:38] HTTP Error: network error 99 - Unknown error
+[2019.10.05 01:02:38] Config Error: Failed to get response, error: Connection closed (2)
+[2019.10.05 01:02:38] Config Error: Failed to parse dns response JSON, error: illegal value
+[2019.10.05 01:02:38] Config Error: Bad data size 0 required 344
+[2019.10.05 01:02:40] HTTP Error: remote host closed - Connection closed
+[2019.10.05 01:02:42] HTTP Error: remote host closed - Connection closed
+[2019.10.05 01:02:45] HTTP Error: remote host closed - Connection closed
+[2019.10.05 01:02:46] HTTP Error: network error 99 - Unknown error
+[2019.10.05 01:02:46] HTTP Error: network error 99 - Unknown error
+[2019.10.05 01:02:47] HTTP Error: remote host closed - Connection closed
+[2019.10.05 01:02:49] HTTP Error: remote host closed - Connection closed
+[2019.10.05 01:02:51] HTTP Error: remote host closed - Connection closed
+[2019.10.05 01:02:53] HTTP Error: network error 99 - Unknown error
+[2019.10.05 01:02:53] HTTP Error: network error 99 - Unknown error
+[2019.10.05 01:02:53] HTTP Error: network error 99 - Unknown error
+[2019.10.05 01:02:54] HTTP Error: network error 99 - Unknown error
+[2019.10.05 01:02:55] HTTP Error: remote host closed - Connection closed
+[2019.10.05 01:02:56] TCP Error: network - Unknown error
+[2019.10.05 01:02:56] HTTP Error: remote host closed - Connection closed
+[2019.10.05 01:02:56] Config Error: Failed to get response, error: Connection closed (2)
+[2019.10.05 01:02:56] Config Error: Failed to parse dns response JSON, error: illegal value
+[2019.10.05 01:02:56] Config Error: Bad data size 0 required 344
+[2019.10.05 01:02:57] HTTP Error: network error 99 - Unknown error
+[2019.10.05 01:03:01] HTTP Error: network error 99 - Unknown error
+[2019.10.05 01:03:01] HTTP Error: network error 99 - Unknown error
+[2019.10.05 01:03:02] HTTP Error: network error 99 - Unknown error
+[2019.10.05 01:03:02] HTTP Error: network error 99 - Unknown error
+[2019.10.05 01:03:03] HTTP Error: network error 99 - Unknown error
+[2019.10.05 01:03:06] TCP Error: network - Unknown error
+[2019.10.05 01:03:06] HTTP Error: network error 99 - Unknown error
+[2019.10.05 01:03:11] TCP Error: network - Network unreachable
+[2019.10.05 01:03:11] TCP Error: network - Network unreachable
+[2019.10.05 01:03:11] HTTP Error: network error 99 - Network unreachable
+[2019.10.05 01:03:11] HTTP Error: network error 99 - Network unreachable
+[2019.10.05 01:03:11] HTTP Error: remote host closed - Connection closed
+[2019.10.05 01:03:11] TCP Error: network - Network unreachable
+[2019.10.05 01:03:11] HTTP Error: network error 99 - Network unreachable
+[2019.10.05 01:03:11] TCP Error: network - Unknown error
+[2019.10.05 01:03:12] HTTP Error: remote host closed - Connection closed
+[2019.10.05 01:03:12] TCP Error: network - Network unreachable
+[2019.10.05 01:03:12] HTTP Error: network error 99 - Network unreachable
+[2019.10.05 01:03:13] TCP Error: network - Network unreachable
+[2019.10.05 01:03:13] HTTP Error: network error 99 - Unknown error
+[2019.10.05 01:03:13] HTTP Error: network error 99 - Network unreachable
+[2019.10.05 01:03:14] TCP Error: network - Network unreachable
+[2019.10.05 01:03:14] HTTP Error: network error 99 - Network unreachable
+[2019.10.05 01:03:14] TCP Error: network - Unknown error
+[2019.10.05 01:03:14] HTTP Error: remote host closed - Connection closed

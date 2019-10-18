@@ -1,0 +1,27 @@
+#include<stdio.h>
+int main()
+{
+int c;
+double grade,total,n;
+n=total=c=0;
+printf("请输入学生成绩");
+scanf("%lf",&grade);
+while(grade>0)
+{
+total=total+grade;
+n=n++;
+if(grade<60)
+{
+c=c++;
+}
+     scanf("%lf",&grade);
+}
+if(n!=0)
+{
+printf("该班级学生的平均成绩为%.2lf\n",total/n);
+printf("该班级成绩不及格的人数为%d\n",c);
+}
+else
+printf("别TM乱输啊！\n");
+return 0;
+}

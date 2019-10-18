@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Conference Check-in System:war" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="027fb5cb-c4b4-4e58-9d07-0276082f59e4" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Jsp File" />
+        <option value="jsf" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectId" id="1RbnLJYcp8jI6rI9KRrjXX4cUN4" />
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="F:/progect/idea/File" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.hqgml.utlis" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\MyProgect\Conference Check-in System\src\main\webapp" />
+      <recent name="F:\MyProgect\Conference Check-in System\src\main\webapp\js" />
+      <recent name="F:\MyProgect\Conference Check-in System\src\main\webapp\demo" />
+      <recent name="F:\MyProgect\Conference Check-in System\src\main\webapp\plugins\jQuery" />
+      <recent name="F:\MyProgect\Conference Check-in System\src\main\webapp\css" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.hqgml.utlis" />
+      <recent name="com.hqgml.web.filter" />
+      <recent name="com.hqgml.domain" />
+      <recent name="com.hqgml.web.servlte" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\MyProgect\Conference Check-in System\src\main\webapp\config" />
+      <recent name="F:\MyProgect\Conference Check-in System\src\main\webapp\Signin" />
+      <recent name="F:\MyProgect\Conference Check-in System\src\main\webapp" />
+      <recent name="F:\MyProgect\Conference Check-in System\src\main\webapp\managers" />
+      <recent name="F:\MyProgect\Conference Check-in System\src\main\webapp\demo" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.Tomcat 8.5.432">
+    <configuration name="TencentUtils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hqgml.test.TencentUtils" />
+      <module name="Conference Check-in System" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hqgml.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringUtils.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Conference Check-in System" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hqgml.utlis.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.hqgml.utlis" />
+      <option name="MAIN_CLASS_NAME" value="com.hqgml.utlis.StringUtils" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UrlUtils.demo0" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Conference Check-in System" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hqgml.utlis.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.hqgml.utlis" />
+      <option name="MAIN_CLASS_NAME" value="com.hqgml.utlis.UrlUtils" />
+      <option name="METHOD_NAME" value="demo0" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="travel [tomcat7:run]" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="tomcat7:run" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="Tomcat 8.5.432" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.432" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="BROWSER_ID" value="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" />
+      <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="HOT_SWAP_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATING_POLICY" value="hot-swap-classes" />
+      <deployment>
+        <artifact name="Conference Check-in System:war">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_ConferenceCheckinSystem" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="1819" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="Conference Check-in System:war" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.TencentUtils" />
+      <item itemvalue="JUnit.StringUtils.test" />
+      <item itemvalue="JUnit.UrlUtils.demo0" />
+      <item itemvalue="Maven.travel [tomcat7:run]" />
+      <item itemvalue="Tomcat Server.Tomcat 8.5.432" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.UrlUtils.demo0" />
+        <item itemvalue="JUnit.StringUtils.test" />
+        <item itemvalue="Application.TencentUtils" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="027fb5cb-c4b4-4e58-9d07-0276082f59e4" name="Default Changelist" comment="" />
+      <created>1569944605155</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569944605155</updated>
+      <workItem from="1569944606813" duration="18801000" />
+      <workItem from="1570075170236" duration="24814000" />
+      <workItem from="1570121514333" duration="400000" />
+      <workItem from="1570123577658" duration="572000" />
+      <workItem from="1570159939763" duration="1943000" />
+      <workItem from="1570172587483" duration="11690000" />
+      <workItem from="1570190714399" duration="17079000" />
+      <workItem from="1570267411088" duration="29049000" />
+      <workItem from="1570333368245" duration="40402000" />
+      <workItem from="1570420619211" duration="2149000" />
+      <workItem from="1570438158162" duration="9924000" />
+      <workItem from="1570457380838" duration="9463000" />
+      <workItem from="1570492366329" duration="14756000" />
+      <workItem from="1570541504951" duration="3126000" />
+      <workItem from="1570579183888" duration="1259000" />
+      <workItem from="1570590817854" duration="1270000" />
+      <workItem from="1570608544879" duration="14422000" />
+      <workItem from="1570630146957" duration="13631000" />
+      <workItem from="1570665847427" duration="3349000" />
+      <workItem from="1570694773081" duration="12520000" />
+      <workItem from="1570711026466" duration="272000" />
+      <workItem from="1570711625651" duration="342000" />
+      <workItem from="1570717018460" duration="4366000" />
+      <workItem from="1570752177441" duration="6751000" />
+      <workItem from="1570770266479" duration="11928000" />
+      <workItem from="1570791369067" duration="6632000" />
+      <workItem from="1570802951500" duration="1862000" />
+      <workItem from="1570838268404" duration="8245000" />
+      <workItem from="1570854714729" duration="1153000" />
+      <workItem from="1570856199965" duration="7536000" />
+      <workItem from="1570880427382" duration="4191000" />
+      <workItem from="1570954792325" duration="8825000" />
+      <workItem from="1571018226174" duration="703000" />
+      <workItem from="1571038141635" duration="12620000" />
+      <workItem from="1571062461213" duration="4667000" />
+      <workItem from="1571067801590" duration="5038000" />
+      <workItem from="1571115178291" duration="6145000" />
+      <workItem from="1571137944274" duration="3182000" />
+      <workItem from="1571148275188" duration="4617000" />
+      <workItem from="1571219599597" duration="141000" />
+      <workItem from="1571219756897" duration="1191000" />
+      <workItem from="1571275462495" duration="974000" />
+      <workItem from="1571286106176" duration="1339000" />
+      <workItem from="1571369318529" duration="1297000" />
+      <workItem from="1571398332166" duration="617000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/hqgml/web/servlte/LogServlet.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/hqgml/web/servlte/FileServlet.java</url>
+          <line>195</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

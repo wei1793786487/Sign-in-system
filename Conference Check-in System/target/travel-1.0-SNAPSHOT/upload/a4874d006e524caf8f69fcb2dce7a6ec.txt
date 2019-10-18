@@ -1,0 +1,20 @@
+C语言程序语句
+Switch用在编程中，如C语言中它经常跟Case一起使用，是一个判断选择代码。其功能就是控制业务流程流转的。
+直线翻译：switch语句，即“切换”语句；case即“情况”。
+switch语句的语法如下(switch，case和default是关键字)：
+switch ( 常量表达式 )
+{
+case 常量1 :语句;
+case 常量2 :语句;
+case 常量3 :语句;
+...
+case 常量n:语句;
+default :语句;
+}
+当常量表达式所表达的量与其中一个case语句中的常量相符时，就执行此case语句后面的语句，并依次下去执行后面所有case语句中的语句，除非遇到break;语句跳出switch语句为止。如果常量表达式的量与所有case语句的常量都不相符，就执行default语句中的语句并跳出switch语句。
+遵守switch语句规则
+switch语句非常有用，但在使用时必须谨慎。所写的任何switch语句都必须遵循以下规则：
+只能针对基本数据类型中的整型类型使用switch，这些类型包括int、char等。对于其他类型，则必须使用if语句。
+switch()的参数类型不能为实型 。
+case标签必须是常量表达式(constantExpression)，如42或者"42"。
+case标签必须是惟一性的表达式；也就是说，不允许两个case具有相同的值。
