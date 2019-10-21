@@ -46,7 +46,7 @@ public class HttpClientHelper {
     }
 
     public static void main(String[] args) throws HttpException, IOException {
-        String url = "http://api.map.baidu.com/location/ip?ip&ak=3rGQd0yzSDSm2SAYiA38mgCmBglpBMUY";
+        String url = "http://api.map.baidu.com/location/ip?ip&ak=";
         System.out.println(sendPost(url));
         String s = sendPost(url);
         JSONObject city = JSON.parseObject(s);
